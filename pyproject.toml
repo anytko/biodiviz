@@ -10,7 +10,7 @@ requires-python = ">=3.8"
 keywords = [
     "biodiviz",
 ]
-license = {text = "GNU General Public License v3"}
+license = {text = "GNU General Public License v3 (GPLv3)"}
 authors = [
   {name = "Alivia Nytko", email = "anytko@vols.utk.edu"},
 ]
