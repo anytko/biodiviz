@@ -10,7 +10,7 @@
 
 -   Free software: GNU General Public License v3
 -   Documentation: https://anytko.github.io/biodiviz
-    
+
 
 ## Features
 
