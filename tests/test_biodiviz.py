@@ -2,7 +2,6 @@
 
 """Tests for `biodiviz` package."""
 
-
 import unittest
 
 from biodiviz import biodiviz
